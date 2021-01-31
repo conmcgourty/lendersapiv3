@@ -23,7 +23,7 @@ namespace WebAPIApplication.Controllers
         {
             return Ok(new
             {
-                Message = "Hello from a private endpoint! You need to be authenticated to see this."
+                Message = "Yo Bitch"
             });
         }
 
